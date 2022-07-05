@@ -1,0 +1,23 @@
+// @import './setting';
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: chartreuse;
+    font-size: xx-large;
+
+}
